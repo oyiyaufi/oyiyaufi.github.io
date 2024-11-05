@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oyiyaufi.github.io/HGg/sitemap_index.txt
+Sitemap: https://oyiyaufi.github.io/YdC/sitemap_index.txt
+Sitemap: https://oyiyaufi.github.io/tjh/sitemap_index.txt
+Sitemap: https://oyiyaufi.github.io/ysR/sitemap_index.txt
